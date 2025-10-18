@@ -1,8 +1,11 @@
-
+print()
+print("Collaborative Story")
+print()
 name = input("What is your name? ")
 print(f"Hello {name}, let's create a story!")
 country = input("Where were you born? ")
-print(f"Great {country}, I would like to visit!")
+print(f"Great, {country}, I would like to visit!")
 animal = input(name + ", what's your favoutite animal? ")
 print(f"Oh I really like {animal}'s too!")
+print()
 
